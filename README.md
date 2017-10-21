@@ -1,2 +1,2 @@
 # JUnit-and-Mockito
-These code were written from this course https://www.udemy.com/junitandmockitocrashcourse/
+This code were written from this course https://www.udemy.com/junitandmockitocrashcourse/
